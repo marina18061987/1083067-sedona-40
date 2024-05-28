@@ -2,6 +2,7 @@
 
 * Студент: [Александр Башин](https://up.htmlacademy.ru/htmlcss/40/user/1083067).
 * Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
+* Сайт: [Мой проект седона](https://marina18061987.github.io/1083067-sedona-40/).
 
 ---
 
